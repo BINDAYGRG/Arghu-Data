@@ -3,7 +3,7 @@ package com.arghudata.test;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by Binaya Gurung on 17/03/18.
+ * Created by Binaya Gurung on 17/03/21.
  */
 
 public class Contact {
